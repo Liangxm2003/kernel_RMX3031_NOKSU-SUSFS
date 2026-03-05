@@ -5833,7 +5833,7 @@ CONFIG_PM_OPP=y
 #
 # KernelSU
 #
-CONFIG_KSU=y
+#CONFIG_KSU=y
 # CONFIG_KSU_DEBUG is not set
 
 #
